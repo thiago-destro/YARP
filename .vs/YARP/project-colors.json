@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7c89b98e-8ba2-43b5-b68c-e7439e047d41": {
+      "ProjectGuid": "7c89b98e-8ba2-43b5-b68c-e7439e047d41",
+      "DisplayName": "YARP",
+      "ColorIndex": 0
+    },
+    "bb92fbc4-c74f-473e-aa47-c2a7a458e88b": {
+      "ProjectGuid": "bb92fbc4-c74f-473e-aa47-c2a7a458e88b",
+      "DisplayName": "YARP",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
